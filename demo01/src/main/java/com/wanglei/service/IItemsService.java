@@ -1,6 +1,7 @@
 package com.wanglei.service;
 
 import com.wanglei.model.Items;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
@@ -15,5 +16,5 @@ public interface IItemsService {
 
     public void saveOrUpdate(Items items);
 
-    public void deleteById();
+    public void deleteById(Integer id);
 }

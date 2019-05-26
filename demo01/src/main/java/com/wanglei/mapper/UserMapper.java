@@ -1,7 +1,7 @@
 package com.wanglei.mapper;
 
-import com.gyf.backoffice.model.User;
-import com.gyf.backoffice.model.UserExample;
+import com.wanglei.model.User;
+import com.wanglei.model.UserExample;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;

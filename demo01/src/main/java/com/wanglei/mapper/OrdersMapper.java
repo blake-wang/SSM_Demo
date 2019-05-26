@@ -1,7 +1,7 @@
 package com.wanglei.mapper;
 
-import com.gyf.backoffice.model.Orders;
-import com.gyf.backoffice.model.OrdersExample;
+import com.wanglei.model.Orders;
+import com.wanglei.model.OrdersExample;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
